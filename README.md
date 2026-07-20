@@ -18,5 +18,5 @@
 > **Session Persistence:** This script currently does not save your entered lyrics across sessions. If you close and restart After Effects, the script UI will reset. Make sure to bake your lyrics into the timeline before closing your project!
 
 <p align="center">
-  Copyright reserved by <a href="https://github.com/festverse">festverse</a> 2026
+  Copyright reserved by <a href="https://github.com/festverse">Fest</a> 2026
 </p>
