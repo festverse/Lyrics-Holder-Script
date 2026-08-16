@@ -5,13 +5,29 @@
 * **Perfect for Edits:** Ideal for speeding up kinetic typography, music edits, and text-heavy vertical (16:9) formats.
 * **Lightweight UI:** A clean, dockable panel that stays out of your way while you animate.
 
-<p align="center">
-  <img src="Screenshot 1.png" width="60%" alt="Lyrics Script Interface" />
-  <br><br>
-  <img src="Screenshot 2.png" width="60%" alt="Adding Lyrics" />
-  <br><br>
-  <img src="Screenshot 3.png" width="60%" alt="Lyrics in Timeline" />
-</p>
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Screenshot 2.png" alt="Panel Interface" width="260" />
+      <br><sub>Docked Panel</sub>
+    </td>
+    <td align="center">
+      <img src="Screenshot 3.png" alt="Floating Window" width="260" />
+      <br><sub>Floating Window</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <img src="Screenshot 1.png" alt="Script Code" width="520" />
+      <br><sub>Script Source</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ## Important Notes / Limitations
 > [!IMPORTANT]
